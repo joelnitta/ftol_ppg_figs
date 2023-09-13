@@ -1,3 +1,5 @@
-# ftol_ms
+# ftol_ppg_figs
 
-Code to generate the manuscript "An open and continuously updated fern tree of life (FTOL)" Nitta et al. 2022.
+Makes plots for FTOL and PPG:
+- plot showing increase in GenBank fern sequences over time
+- plot showing participation in PPG
